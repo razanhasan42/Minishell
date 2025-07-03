@@ -1,6 +1,5 @@
 # Minishell
 A simple shell implementation in C, developed as part of the 42 school curriculum. This project aims to replicate key functionalities of a real Unix shell.
-
 Understand and implement command parsing and execution.
 Learn process creation and communication (fork, execve, pipes).
 Manage environment variables.
